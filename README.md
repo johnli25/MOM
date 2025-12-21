@@ -3,7 +3,6 @@
 ### *Won ECE Senior Design Runner-Up Award* (Fall 2022)
 
 ## Authors and Acknowledgements
-ECE 445 FA2022 Team 7:
 - Franklin Moy
 - Vish Gopal Sekar
 - John Li
